@@ -6,4 +6,4 @@ Scans vmfs datastores for unmapped .vmdk files and returns a report in the form 
   - v6.x
   - v7.x Untested
 
-LICENSE: [MIT](https://github.com/sgkens/vmware-vmfs-DeepScanReport/LICENSE)
+LICENSE: [MIT](https://github.com/sgkens/vmware-vmfs-DeepScanReport/blob/main/LICENSE)
