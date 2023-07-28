@@ -6,6 +6,7 @@
     DEPENDANCIES: Connection Instance to vCenter Server, 
 	BUILD ENV===: Powershell Version 5.0.10586.117
     LICENCE=====: GNU GENERAL PUBLIC LICENSE
+    VMWAREVersion 5.0, 6.x, 7.x Untested
     KB: o-> https://ss64.com/ps/syntax-datatypes.html
         o-> https://www.compart.com/en/unicode/block/U+1F300
         o-> http://www.hjo3.net/bytes.html
